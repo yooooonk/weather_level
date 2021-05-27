@@ -1,5 +1,4 @@
 # weather_level
-
 ![logo](readme_images/logo.png)
 
 😊[사이트 링크](https://theweatherlevel.com)
@@ -13,6 +12,16 @@
 **weather_level 프로젝트의 프론트 엔드 Repository 입니다.**
 
 ## 개요
+
+> 5월 23일 오픈 이후 
+누적사용자 약 3.9천명
+페이지뷰 2.4만
+
+흩어져있는 날씨, 코로나, 미세먼지, 생활지수 정보들을 한 번에!
+내가 원하는 정보를 중점적으로!
+깔끔한 UI로!
+내가 중요하게 생각하는 요소에 따라 외출 점수도 계산해주는!
+날씨 어플 외출난이도!
 
 - 명칭 : weather level (외출 난이도)
 - 개발 인원 : 6명
